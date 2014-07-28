@@ -1,0 +1,25 @@
+.title h1{
+    text-align: center;
+}
+
+nav ul{
+    display: block;
+    float: right;
+}
+nav ul li{
+    float: left;
+    list-style: none;
+    margin: 10px;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+}
+
+.post-list-item{
+    background: #eee;
+    padding: 10px;
+    margin: 10px;
+}
+
